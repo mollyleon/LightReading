@@ -1,6 +1,6 @@
 <template>
   <div>
-    <m-header title="书城"></m-header>
+    <m-header title="轻阅"></m-header>
     <div v-if="sliders.length">
       <slider :data="sliders"></slider>
     </div>
